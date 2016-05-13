@@ -1,1 +1,1 @@
-* Asteroid Game: Rocket *
+*Asteroid Game: Rocket*
